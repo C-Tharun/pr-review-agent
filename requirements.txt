@@ -1,0 +1,12 @@
+# PR Review Agent - Minimal Dependencies for Vercel
+# Core FastAPI and web server dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+
+# HTTP client for API requests
+requests==2.31.0
+
+# Environment and configuration
+python-dotenv==1.0.0
+python-multipart==0.0.6
